@@ -1,2 +1,2 @@
-# Dino-Game
-  Jogo do dinossauro
+ # Dino-Game
+🦖Jogo do dinossauro
